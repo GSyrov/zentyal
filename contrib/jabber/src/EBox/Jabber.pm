@@ -145,7 +145,7 @@ sub _services
 sub enableActions
 {
     my ($self) = @_;
-    $self->checkUsersMode();
+    #$self->checkUsersMode();
 }
 
 #  Method: _daemons
